@@ -1,0 +1,142 @@
+.title{
+    justify-content: center;
+    display: flex;
+}
+
+.titleTxt{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.byJ{
+    justify-content: center;
+    display: flex;
+    margin-top: 3;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#bgBody
+{
+    background-color: blanchedalmond;
+}
+
+
+
+.test2{
+    padding-top: 20px; 
+    background-color: red;
+    padding-bottom: 10px;
+    justify-content: center;
+    display: flex;
+}
+
+li {
+    display: inline;
+  }
+
+  .lColor{
+    color: blanchedalmond;
+    padding-right:30px ;
+  }
+  .lColor2{
+    color: blanchedalmond;
+    padding-right:30px ;
+  }
+  .lColor3{
+    color: blanchedalmond;
+    padding-right:30px ;
+  }
+  .lColor4{
+    color: blanchedalmond;
+  }
+
+  .meImg
+  {
+    border-radius: 70%;
+    width: 170px;
+    height: 160px;
+    margin-top: 20px;
+    margin-left: 100px;
+ 
+  }
+
+  .bgImg{
+    background-color: red;
+    margin-top: 50px;
+    width: 900px;
+    margin-left: 180px;
+  }
+ 
+.aboutMe{
+    color: blanchedalmond;
+    inline-size: 600px;
+    margin-left: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 50px;
+
+  } 
+
+  .foods{
+    color: red;
+    justify-content: center;
+    display: flex;
+  }
+
+  /* .foodList{
+    color: blanchedalmond;
+    margin-left: 70px;
+  } */
+
+
+  .flex-parent-element {
+    display: flex;
+    width: 90%;
+    margin-left: 80px;
+  }
+  
+  .flex-child-element {
+    flex: 1;
+    border: 2px solid red;
+    margin: 10px;
+  }
+  .tor {
+    flex: 1;
+    margin: 8px;
+  }
+  .dog {
+    flex: 1;
+    margin: 10px;
+  }
+  .pet1 {
+    display: flex;
+    width: 90%;
+    margin-left: 80px;
+  }
+  
+  .pet2 {
+    flex: 1;
+    margin: 10px;
+  }
+
+  h3{
+
+    justify-content: center;
+    display: flex;
+  }
+
+  .myDog{
+    width: 300px;
+    height: 250px;
+  }
+
+  .tortuga{
+    width: 300px;
+    height: 250px;
+  }
+
+  .dTxt{
+    color: red;
+  }
+  .tTxt{
+    color: red;
+  }
